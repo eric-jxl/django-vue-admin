@@ -32,21 +32,7 @@
 
 
 
-## 交流
 
-- 社区：[戳我](https://bbs.django-vue-admin.com)👩‍👦‍👦
-
-- QQ群号：812482043 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=fOdnHhC8DJlRHGYSnyhoB8P5rgogA6Vs&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="django-vue-admin交流01群" title="django-vue-admin交流01群"></a>
-
-- 二维码
-
-  <img src='https://gitee.com/liqianglog/django-vue-admin/raw/master/dvadmin-ui/src/assets/images/qq.jpg' width='200'>
-
-## 源码地址
-
-gitee地址(主推)：[https://gitee.com/dvadmin/django-vue-admin-pro](https://gitee.com/dvadmin/django-vue-admin-pro)👩‍👦‍👦
-
-github地址：[https://github.com/dvadmin-pro/django-vue-admin-pro](https://github.com/dvadmin-pro/django-vue-admin-pro)👩‍👦‍👦
 
 
 
