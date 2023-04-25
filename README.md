@@ -99,7 +99,7 @@ npm run build:prod
 
 ## 后端💈
 
-~~~bash
+```markdown
 1. 进入项目目录 cd backend
 2. 在项目根目录中，复制 ./conf/env.example.py 文件为一份新的到 ./conf 文件夹下，并重命名为 env.py
 3. 在 env.py 中配置数据库信息
@@ -118,13 +118,13 @@ npm run build:prod
   daphne -b 0.0.0.0 -8000 application.asgi:application
 初始账号：superadmin 密码：admin123456
 后端接口文档地址：http://127.0.0.1:8000/swagger
-~~~
+```
 
 
 
 ### docker-compose 运行
 
-~~~shell
+```shell
 # 先安装docker-compose (自行百度安装),执行此命令等待安装，如有使用celery插件请打开docker-compose.yml中celery 部分注释
 docker-compose up -d
 # 初始化后端数据(第一次执行即可)
@@ -145,7 +145,7 @@ docker-compose down
 docker-compose restart
 #  docker-compose 启动时重新进行 build
 docker-compose up -d --build
-~~~
+```
 
 
 
